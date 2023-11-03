@@ -1,0 +1,6 @@
+[
+	{
+		"name": "Radioactivity", // only for Units that have been close to Natural Wonder Sewer of Illness
+		"uniques": ["[-5] HP when healing"]
+	}
+]
