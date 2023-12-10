@@ -1,194 +1,320 @@
 
 game.png
-size: 512, 256
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Barringer Iceberg
   rotate: false
-  xy: 220, 88
+  xy: 4, 16
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Demon Falls
+  rotate: false
+  xy: 940, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/El Mojado
   rotate: false
-  xy: 220, 52
+  xy: 148, 16
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Everest Deep
+  rotate: false
+  xy: 508, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Galapagos Seas
   rotate: false
-  xy: 364, 91
+  xy: 436, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Great Barrier Rock
   rotate: false
-  xy: 404, 80
+  xy: 436, 37
   size: 32, 39
   orig: 32, 39
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Great Barrier Rock2
   rotate: false
-  xy: 4, 13
-  size: 34, 39
-  orig: 34, 39
+  xy: 476, 73
+  size: 32, 39
+  orig: 32, 39
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lake Fuji
   rotate: false
-  xy: 444, 95
+  xy: 364, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lake of Gibraltar
+  rotate: false
+  xy: 548, 148
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mariana Trench
   rotate: false
-  xy: 436, 135
-  size: 38, 45
-  orig: 38, 45
+  xy: 588, 137
+  size: 32, 43
+  orig: 32, 43
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pamukkale Falls
   rotate: false
-  xy: 260, 69
+  xy: 628, 141
   size: 32, 39
   orig: 32, 39
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Retba Island
+  rotate: false
+  xy: 668, 148
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Sewer of Illness
   rotate: false
-  xy: 300, 76
+  xy: 708, 148
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sinai Cove
   rotate: false
-  xy: 260, 33
+  xy: 476, 37
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Uluru Pit
   rotate: false
-  xy: 46, 4
+  xy: 748, 146
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UnOasis
   rotate: false
-  xy: 300, 40
+  xy: 788, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Barringer Iceberg
+  rotate: false
+  xy: 4, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Barringer Iceberg2
+  rotate: false
+  xy: 4, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Coast
-  rotate: false
-  xy: 4, 196
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/El Mojado
-  rotate: false
-  xy: 4, 132
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Grassland
   rotate: false
   xy: 76, 196
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Great Barrier Rock
+TileSets/HexaRealm/Tiles/Dead Plains
   rotate: false
-  xy: 4, 60
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Great Barrier Rock2
-  rotate: false
-  xy: 76, 124
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Krakatoa
-  rotate: false
-  xy: 148, 196
+  xy: 4, 52
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Krakatoa Geyser
+TileSets/HexaRealm/Tiles/Demon Falls
   rotate: false
-  xy: 148, 124
+  xy: 76, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Dry Plains
+  rotate: false
+  xy: 148, 188
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Lake Fuji
+TileSets/HexaRealm/Tiles/El Mojado
+  rotate: false
+  xy: 76, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Everest Deep
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Eye of the Sahara Sea
+  rotate: false
+  xy: 148, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Floating Moss
   rotate: false
   xy: 220, 188
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Lake Fuji2
+TileSets/HexaRealm/Tiles/Galapagos Seas
   rotate: false
-  xy: 292, 188
+  xy: 148, 52
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Galapagos Seas2
+  rotate: false
+  xy: 148, 52
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Galapagos Seas3
+  rotate: false
+  xy: 220, 116
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mariana Trench
+TileSets/HexaRealm/Tiles/Great Atlantis
   rotate: false
-  xy: 364, 127
-  size: 64, 125
-  orig: 64, 125
+  xy: 292, 177
+  size: 64, 75
+  orig: 64, 75
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mountain
+TileSets/HexaRealm/Tiles/Great Barrier Rock
+  rotate: false
+  xy: 364, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Great Barrier Rock2
   rotate: false
   xy: 436, 188
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Ha Long Lakes
+  rotate: false
+  xy: 508, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Krakatoa Geyser
+  rotate: false
+  xy: 580, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lake Fuji
+  rotate: false
+  xy: 652, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lake Fuji2
+  rotate: false
+  xy: 724, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lake of Gibraltar
+  rotate: false
+  xy: 796, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mariana Trench
+  rotate: false
+  xy: 868, 127
+  size: 64, 125
+  orig: 64, 125
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mountain
+  rotate: false
+  xy: 940, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Pamukkale Falls
   rotate: false
-  xy: 76, 46
+  xy: 220, 38
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Retba Island
+  rotate: false
+  xy: 292, 105
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Sewer of Illness
   rotate: false
-  xy: 148, 52
+  xy: 364, 116
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Sinai Cove
   rotate: false
-  xy: 220, 124
+  xy: 292, 41
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/UnOasis
+  rotate: false
+  xy: 436, 120
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Untitled
   rotate: false
-  xy: 292, 116
+  xy: 364, 44
   size: 64, 64
   orig: 64, 64
   offset: 0, 0

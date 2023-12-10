@@ -1,21 +1,5 @@
 [
 	{
-		"name": "Atlantis",
-		"type": "NaturalWonder",
-		"science": 2,
-		"happiness": 3,
-		"production": 2,
-		"occursOn": ["Grassland","Plains","Tundra"],
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Units ending their turn on this terrain take [70] damage",
-			"Grants 500 Gold to the first civilization to discover it",
-			"Must be adjacent to [0] to [3] [Plains] tiles",
-			"Must be adjacent to [0] to [3] [Grassland] tiles"],
-		"turnsInto": "Plains",
-		"unbuildable": true,
-		"weight": 2
-	},
-	{
 		"name": "Barringer Iceberg",
 		"type": "NaturalWonder",
 		"food": 2,
@@ -130,6 +114,32 @@
 		"weight": 9
 	},
 	{
+		"name": "Grand Underwater Mesa",
+		"type": "NaturalWonder",
+		"turnsInto": "Coast",
+		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] [Coast] tiles",
+				"Units ending their turn on this terrain take [50] damage"],
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Great Atlantis",
+		"type": "NaturalWonder",
+		"science": 2,
+		"happiness": 3,
+		"production": 2,
+		"occursOn": ["Grassland","Plains","Tundra"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Units ending their turn on this terrain take [70] damage",
+			"Grants 500 Gold to the first civilization to discover it",
+			"Must be adjacent to [0] to [3] [Plains] tiles",
+			"Must be adjacent to [0] to [3] [Grassland] tiles"],
+		"turnsInto": "Plains",
+		"unbuildable": true,
+		"weight": 2
+	},
+	{
 		"name": "Great Barrier Rock",
 		"type": "NaturalWonder",
 		"production": 3,
@@ -158,7 +168,7 @@
 		"weight": 10
 	},
 	{
-		"name": "Island Retba",
+		"name": "Retba Island",
 		"type": "NaturalWonder",
 		"food": 2,
 		"culture": 2,
@@ -173,7 +183,7 @@
 	{
 		"name": "Krakatoa Geyser",
 		"type": "NaturalWonder",
-		"science": 5,
+		"faith": 5,
 		"food": 1,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
@@ -314,11 +324,20 @@
 		"movementCost": 2,
 		"unbuildable": true,
 		"defenceBonus": -0.3,
-		"occursOn": ["Grassland"],
+		"occursOn": ["Grassland","Desert"],
 		"uniques": ["Rare feature","Rough terrain",
 					"Only [All Road] improvements may be built on this tile",
-					"Neighboring tiles will convert to [Desert]",
+					"Neighboring tiles will convert to [Dry Plains]",
 					"Units ending their turn on this terrain take [10] damage",
-					"Considered [Undesirable] when determining start locations"]
+					"Considered [Undesirable] when determining start locations"],
+		"weight": 3
 	},
+	{
+		"name": "Dry Plains",
+		"type": "TerrainFeature",
+		"overrideStats": true,
+		"movementCost": 2,
+		"unbuildable": true,
+
+	}
 ]
