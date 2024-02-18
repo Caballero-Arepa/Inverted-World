@@ -19,6 +19,25 @@
 			]
 	},
 	{
+		"name": "Mariana Trench",
+		"type": "NaturalWonder",
+		"food": 2,
+		"science": 3,
+		"culture": 1,
+		"occursOn": ["Coast","Ocean"],
+		"uniques": ["Comment [Adjacent units ending their turn take 100 damage]","Grants [Titanicly] ([ship is sunken]) to adjacent [All] units for the rest of the game",
+			"Must be adjacent to [6] [Water] tiles",
+			"Occurs on latitudes from [70] to [100] percent of distance equator to pole",
+			"Must be adjacent to [1] to [6] [Coast] tiles"],
+		"turnsInto": "Coast",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10,
+		"civilopediaText": [
+    		{ "text": "The silent killer, the lord of the cold polar sea. No matter how big, no ship has ever survived an encounter with the biggest iceberg of all." }
+			]
+	},
+	{
 		"name": "Dead Plains",
 		"type": "NaturalWonder",
 		"science": 2,
