@@ -15,26 +15,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "The silent killer, the lord of the cold polar sea. No matter how big, no ship has ever survived an encounter with the biggest iceberg of all." }
-			]
-	},
-	{
-		"name": "Mariana Trench",
-		"type": "NaturalWonder",
-		"food": 2,
-		"science": 3,
-		"culture": 1,
-		"occursOn": ["Coast","Ocean"],
-		"uniques": ["Comment [Adjacent units ending their turn take 100 damage]","Grants [Titanicly] ([ship is sunken]) to adjacent [All] units for the rest of the game",
-			"Must be adjacent to [6] [Water] tiles",
-			"Occurs on latitudes from [70] to [100] percent of distance equator to pole",
-			"Must be adjacent to [1] to [6] [Coast] tiles"],
-		"turnsInto": "Coast",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10,
-		"civilopediaText": [
-    		{ "text": "The silent killer, the lord of the cold polar sea. No matter how big, no ship has ever survived an encounter with the biggest iceberg of all." }
+    		{ 	"text": "The silent killer, the lord of the cold polar sea. No matter how big, no ship has ever survived an encounter with the biggest iceberg of all." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Barringer Crater",
+        		"link": "Terrains/Barringer Crater",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -51,7 +36,11 @@
 		"unbuildable": true,
 		"weight": 5,
 		"civilopediaText": [
-    		{ "text": "Its not the dead sea, its an island so salty, that barely anything can live there." }
+    		{ "text": "Its not the dead sea, its an island so salty, that barely anything can live there." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Dead Sea",
+        		"link": "https://en.wikipedia.org/wiki/Dead_Sea",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -67,7 +56,11 @@
 		"unbuildable": true,
 		"weight": 7,
 		"civilopediaText": [
-    		{ "text": "So peculiar, a tiny waterfall, in a tiny island, a tiny rock. Where does the fresh water comes from?" }
+    		{ "text": "So peculiar, a tiny waterfall, in a tiny island, a tiny rock. Where does the fresh water comes from?" },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Angel Falls",
+        		"link": "https://en.wikipedia.org/wiki/Angel_Falls",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -85,7 +78,11 @@
 			"Has an elevation of [3] for visibility calculations"],
 		"weight": 2,
 		"civilopediaText": [
-    		{ "text": "The city of gold, who many merchants and sailors set to explore, deep in the amazonian sea, where from many have not returned." }
+    		{ "text": "The city of gold, who many merchants and sailors set to explore, deep in the amazonian sea, where from many have not returned." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of El Dorado",
+        		"link": "Terrains/El Dorado",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -103,7 +100,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "With earth's highs and lows, it certain that its not flat. This proves it, as its so deep, humanity will take many centuries to be able to reach the bottom." }
+    		{ "text": "With earth's highs and lows, it certain that its not flat. This proves it, as its so deep, humanity will take many centuries to be able to reach the bottom." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of Mount Everest",
+        		"link": "https://en.wikipedia.org/wiki/Mount_Everest",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -118,7 +119,11 @@
 		"unbuildable": true,
 		"weight": 6,
 		"civilopediaText": [
-    		{ "text": "Mariners who saw it are labeled as crazy, but they'll never forgotten what they actually did see." }
+    		{ "text": "Mariners who saw it are labeled as crazy, but they'll never forgotten what they actually did see." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Eye of the Sahara",
+        		"link": "https://en.wikipedia.org/wiki/Richat_Structure",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -136,7 +141,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "An island, yet not land. An island full of monkeys and weird fruit. An island, navigating the seas, never to be seen." }
+    		{ "text": "An island, yet not land. An island full of monkeys and weird fruit. An island, navigating the seas, never to be seen." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Pantanal",
+        		"link": "https://en.wikipedia.org/wiki/Pantanal",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -154,7 +163,11 @@
 		"unbuildable": true,
 		"weight": 9,
 		"civilopediaText": [
-    		{ "text": "Fascinating collection of inner seas, where evolutuanry processes inspired scientist to learn more about nature." }
+    		{ "text": "Fascinating collection of inner seas, where evolutuanry processes inspired scientist to learn more about nature." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Galapagos Archipelago",
+        		"link": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -167,7 +180,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "Officially the lowest island of all. Barely under the sea level, a mere 2 meters deep, the place is known for being hard to spot and ship go plop." }
+    		{ "text": "Officially the lowest island of all. Barely under the sea level, a mere 2 meters deep, the place is known for being hard to spot and ship go plop." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Grand Mesa",
+        		"link": "Terrains/Grand Mesa",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -186,7 +203,11 @@
 		"unbuildable": true,
 		"weight": 2,
 		"civilopediaText": [
-    		{ "text": "And so, blessed by the gods, to be protected from the sinful peoples of the land, the city was risen to the skies. How dumb of them, that they suffocated the atlanteans from lack of oxigen..." }
+    		{ "text": "And so, blessed by the gods, to be protected from the sinful peoples of the land, the city was risen to the skies. How dumb of them, that they suffocated the atlanteans from lack of oxigen..." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of Atlantis",
+        		"link": "https://en.wikipedia.org/wiki/Atlantis",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -206,7 +227,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "No, its not a mountain, these are quite simply big boulders, home to unique wildlife, not found anywere else." }
+    		{ "text": "No, its not a mountain, these are quite simply big boulders, home to unique wildlife, not found anywere else." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Great Barrier Reef",
+        		"link": "Terrains/Great Barrier Reef",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -220,7 +245,11 @@
 		"turnsInto": "Coast",
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "The pastures along the lakes have become a popular turist atraction to go picnic." }
+    		{ "text": "The pastures along the lakes have become a popular turist atraction to go picnic." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Ha Long Bay",
+        		"link": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -236,7 +265,11 @@
 		"unbuildable": true,
 		"weight": 6,
 		"civilopediaText": [
-    		{ "text": "A fantastical island with its unique pink color. Many have tried to buy it, but fortunately no one has been able to." }
+    		{ "text": "A fantastical island with its unique pink color. Many have tried to buy it, but fortunately no one has been able to." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Retba Lake",
+        		"link": "https://en.wikipedia.org/wiki/Lake_Retba",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -253,7 +286,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "The most powerful geyser on earth, who once erupted hot water so high and so loud, it was heard all over the world and warmed the planet for a few weeks." }
+    		{ "text": "The most powerful geyser on earth, who once erupted hot water so high and so loud, it was heard all over the world and warmed the planet for a few weeks." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Krakatoa",
+        		"link": "Terrains/Krakatoa",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -275,7 +312,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "A majestic lake, were cherry blossoms blossom, and it's charming water give peace to the soul." }
+    		{ "text": "A majestic lake, were cherry blossoms blossom, and it's charming water give peace to the soul." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Mount Fuji",
+        		"link": "Terrains/Mount Fuji",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -293,7 +334,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "Its importance is due to the strategic position for merchants to rest and have fresh water. Famously stolen from the English by the Spanish." }
+    		{ "text": "Its importance is due to the strategic position for merchants to rest and have fresh water. Famously stolen from the English by the Spanish." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Rock of Gibraltar",
+        		"link": "Terrains/Rock of Gibraltar",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -311,7 +356,11 @@
 		"unbuildable": true,
 		"weight": 4,
 		"civilopediaText": [
-    		{ "text": "The tallest mountain in the whole planet, so high it can reach the stars" }
+    		{ "text": "The tallest mountain in the whole planet, so high it can reach the stars" },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Mariana Trench",
+        		"link": "https://en.wikipedia.org/wiki/Mariana_Trench",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -345,7 +394,11 @@
 			"[+4 Food] <after discovering [Biology]>","[+4 Science] <after discovering [Atomic Theory]>"],
 		"weight": 1,
 		"civilopediaText": [
-    		{ "text": "Anyone who may aproach this cursed waters, will forever be infected of them." }
+    		{ "text": "Anyone who may aproach this cursed waters, will forever be infected of them." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Fountain of Youth",
+        		"link": "Terrains/Fountain of Youth",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -360,7 +413,11 @@
 		"unbuildable": true,
 		"weight": 8,
 		"civilopediaText": [
-    		{ "text": "After dividing a mountain in two to escape, Sesom dived down the sea, and there he stayed several days, and God gave him the 20 commandmends for its people." }
+    		{ "text": "After dividing a mountain in two to escape, Sesom dived down the sea, and there he stayed several days, and God gave him the 20 commandmends for its people." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of Mount Sinai",
+        		"link": "Terrains/Mount Sinai",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -378,7 +435,11 @@
 		"unbuildable": true,
 		"weight": 6,
 		"civilopediaText": [
-    		{ "text": "''Land ahoy!' I said. Finally, an island to rest and take water from. How wrong we were, for the water was deep under a massive hole in the soil.'" }
+    		{ "text": "''Land ahoy!' I said. Finally, an island to rest and take water from. How wrong we were, for the water was deep under a massive hole in the soil.'" },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Titicaca Lake",
+        		"link": "https://en.wikipedia.org/wiki/Lake_Titicaca",
+        		"color": "grey" },
 			]
 	},
 	{
@@ -395,7 +456,11 @@
 		"unbuildable": true,
 		"weight": 10,
 		"civilopediaText": [
-    		{ "text": "So delicate, so thinn, so deep. May no ship fall here, may the walls don't collapse." }
+    		{ "text": "So delicate, so thinn, so deep. May no ship fall here, may the walls don't collapse." },
+    		{ 	"separator": true },
+    		{	"text": "Parody of the Uluru",
+        		"link": "Terrains/Uluru",
+        		"color": "grey" },
 			]
 	},
 	{
