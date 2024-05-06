@@ -74,7 +74,7 @@
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [6] to [6] [Ocean] tiles",
-			"Grants 500 Gold to the first civilization to discover it","Tile provides yield without assigned population",
+			"Grants [+500 Gold] to the first civilization to discover it","Tile provides yield without assigned population",
 			"Has an elevation of [3] for visibility calculations"],
 		"weight": 2,
 		"civilopediaText": [
@@ -196,7 +196,7 @@
 		"occursOn": ["Grassland","Plains","Tundra"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Units ending their turn on this terrain take [70] damage",
-			"Grants 500 Gold to the first civilization to discover it",
+			"Grants [+500 Gold] to the first civilization to discover it",
 			"Must be adjacent to [0] to [3] [Plains] tiles",
 			"Must be adjacent to [0] to [3] [Grassland] tiles"],
 		"turnsInto": "Plains",
